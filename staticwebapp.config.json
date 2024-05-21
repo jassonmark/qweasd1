@@ -1,0 +1,9 @@
+{
+"routes" : [
+    {
+        "route" : "/*",
+        "redirect" : "https://www.qalibresolutions.com",
+        "statusCode": 301
+    }
+]
+}
